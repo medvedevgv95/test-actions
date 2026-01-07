@@ -80,7 +80,7 @@ docker run -p 8000:8000 time-server-api
 
 - **Swagger UI**: http://localhost:8000/docs
 - **ReDoc**: http://localhost:8000/redoc
--**Swagger UI**: http://89.104.69.188:8000/docs
+- **Swagger UI**: http://89.104.69.188:8000/docs
 - **ReDoc**: http://89.104.69.188:8000/redoc
 
 ## Структура проекта
